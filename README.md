@@ -1,4 +1,4 @@
-﻿[скриншоты к решению в папке solution](https://github.com/AlmukhametovT/javacore10.2/solution)
+﻿[скриншоты к решению в папке solution](https://github.com/AlmukhametovT/javacore10.2/tree/master/solution)
 
 # Вывод консоли
 
@@ -21,7 +21,7 @@ Process finished with exit code 0
 
 
 # Classes & CPU  
-[как истинный "хакер" отметил выполняемые строки кода в paint](https://github.com/AlmukhametovT/javacore10.2/solution/2 loadToMetaspaceAllFrom.jpeg)  
+[как истинный "хакер" отметил выполняемые строки кода в paint](https://github.com/AlmukhametovT/javacore10.2/blob/master/solution/2%20loadToMetaspaceAllFrom.jpg)  
 **работаем с графиками CPU и Classes**  
 до 21.56.42 код ведет себя спокойной, 
 подгрузились примерно 2102 класса, загрузка CPU 0-2,7%  
@@ -52,7 +52,7 @@ Process finished with exit code 0
 *в целом цифры очен близки, будем считать погрешностью*  
 
 # Heap & Metaspace  
-[анализ графиков Heap & Metaspace](https://github.com/AlmukhametovT/javacore10.2/solution/3 Heap Metaspace.jpeg)  
+[анализ графиков Heap & Metaspace](https://github.com/AlmukhametovT/javacore10.2/blob/master/solution/3%20Heap%20Metaspace.jpg)  
 *21:56:54.544877400: now see heap*  
 бежим внимательно смотреть графики хипа, до этой секунды ничего интересного,  
 скучная прямая, на хип выделено 100Мб, из которых на пике задействовано 61Мб  
